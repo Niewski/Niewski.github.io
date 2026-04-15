@@ -17,7 +17,7 @@ Before beginning any enhancements, I conducted a comprehensive code review of th
 The CS360 Weight Tracker is an Android application built in Java using Android SDK 36, SQLite, and Material Components. It allows users to register an account, log daily weights, view their history, delete entries, and receive a one-time SMS notification when they reach their goal weight.
 
 <div class="artifact-links">
-  <a href="https://github.com/Niewski/CS360WeightTracker">&#128193; Original Source Code</a>
+  <a href="https://github.com/Niewski/CS360WeightTracker/tree/76e659e5cc046e28d372e604099ec7a84ce89eb1">&#128193; Original Source Code</a>
 </div>
 
 ## Key Findings
