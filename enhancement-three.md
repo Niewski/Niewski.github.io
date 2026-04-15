@@ -9,7 +9,7 @@ permalink: /enhancement-three
 The third enhancement significantly expanded the database layer with advanced SQLite features, security hardening, and data portability. This enhancement addresses the critical vulnerabilities and design flaws identified during the code review while demonstrating mastery of database design, migration strategies, and security best practices.
 
 <div class="artifact-links">
-  <a href="https://github.com/Niewski/CS360WeightTracker">&#128193; Original Code</a>
+  <a href="https://github.com/Niewski/CS360WeightTracker/tree/76e659e5cc046e28d372e604099ec7a84ce89eb1">&#128193; Original Code</a>
   <a href="https://github.com/Niewski/CS360WeightTracker/tree/database-updates">&#128640; Enhanced Code</a>
 </div>
 

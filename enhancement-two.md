@@ -9,7 +9,7 @@ permalink: /enhancement-two
 The second enhancement added a Weight Analytics Dashboard that transforms raw weight data into meaningful insights using several distinct algorithms and efficient data structures. This enhancement demonstrates algorithmic problem-solving, computational complexity awareness, and comprehensive testing practices.
 
 <div class="artifact-links">
-  <a href="https://github.com/Niewski/CS360WeightTracker">&#128193; Original Code</a>
+  <a href="https://github.com/Niewski/CS360WeightTracker/tree/76e659e5cc046e28d372e604099ec7a84ce89eb1">&#128193; Original Code</a>
   <a href="https://github.com/Niewski/CS360WeightTracker/tree/analytics-dashboard">&#128640; Enhanced Code</a>
 </div>
 
