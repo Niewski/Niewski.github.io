@@ -1,0 +1,17 @@
+title: Jacob Wisniewski — CS-499 ePortfolio
+description: Computer Science Capstone ePortfolio showcasing software design, algorithms, and database enhancements.
+baseurl: ""
+url: "https://niewski.github.io"
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - "CS499 Work"
+  - Gemfile
+  - Gemfile.lock
+  - .jekyll-cache
+  - .sass-cache
+  - "*.zip"
+  - "*.mov"
+  - "*.docx"
