@@ -4,8 +4,6 @@ title: Professional Self-Assessment
 permalink: /
 ---
 
-## Professional Self-Assessment
-
 Going through the Computer Science program at Southern New Hampshire University has been a really meaningful experience for me. It helped me grow not only in my technical skills, but also in the way I think about myself as a software developer. Looking back, I can see how much I have improved in areas like coding, problem-solving, testing, documentation, and thinking more carefully about security and design. For my capstone I had the chance to return to an earlier project, the CS360 Weight Tracker Android app, and improve it using the knowledge and experience I gained throughout the program. That made this project feel like a strong reflection of my overall growth. In this ePortfolio I used that artifact to show development in three important areas of computer science: software design and engineering, algorithms and data structures, and databases.
 
 ## Collaborating in a Team Environment
